@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/-C%23-E3E3E3?style=flat&logo=c-sharp&logoColor=000000)
 
 > ## **Note**
-### Like <a target="_blank" href="https://github.com/0f1">0f1</a>
+### Like <a href="https://github.com/0f1" target="_blank" >0f1</a>
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/444051496083128331.png">
