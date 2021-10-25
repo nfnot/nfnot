@@ -1,5 +1,3 @@
-<img src="/Header.png" width="100%"/>
-
 ![Profile views](https://komarev.com/ghpvc/?username=nfnot&style=flat&color=000000&label=Vistors)
 
 > ## **My Skills**
@@ -14,7 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E3E3E3?style=flat&logo=mongodb&logoColor=4DB33D)
 
 > ## **Note**
-### Currently i work on private projects, which is why you don't see any repositories.
+### (-_-)
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/444051496083128331.png">
