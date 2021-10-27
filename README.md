@@ -1,7 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nfnot&style=flat&color=000000&label=Vistors)
 
 > ## **My Skills**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nfnot&layout=compact&theme=dark)](https://github.com/nfnot)
 
 ![HTML](https://img.shields.io/badge/-HTML-E3E3E3?style=flat&logo=HTML5&logoColor=d74824)
 ![CSS](https://img.shields.io/badge/-CSS-E3E3E3?style=flat&logo=CSS3&logoColor=2760e5)
