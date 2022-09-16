@@ -10,6 +10,8 @@
 ![C#](https://img.shields.io/badge/-C%23-E3E3E3?style=flat&logo=c-sharp&logoColor=68207a)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E3E3E3?style=flat&logo=mongodb&logoColor=4DB33D)
 ![NextJS](https://img.shields.io/badge/-NextJS-E3E3E3?style=flat&logo=next.js&logoColor=000000)
+![Express](https://img.shields.io/badge/-Express-E3E3E3?style=flat&logo=express&logoColor=000000)
+
 
 > ## **Note**
 ### (-_-)
