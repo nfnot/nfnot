@@ -1,4 +1,4 @@
-<img src="/header.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/41666997/229043817-039c85d2-1021-4b1d-ae42-f2322b8def12.jpeg" width="100%"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=nfnot&style=flat&color=000000&label=Vistors)
 
