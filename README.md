@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/nfnot/nfnot/main/banner.png" width="100%"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=nfnot&style=flat&color=000000&label=Vistors)
-![Profile](https://no.sa/api/p)
+
 > ## **My Skills**
 
 ![HTML](https://img.shields.io/badge/-HTML-E3E3E3?style=flat&logo=HTML5&logoColor=d74824)
